@@ -1,5 +1,7 @@
 This is a django api that serves data that is scraped from IMDB top 100 shows.
 sample output:
+
+
 [
     {
         "id": 1,
